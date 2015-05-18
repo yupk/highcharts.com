@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://171.34.70.58:8000/static/images/logo.jpg</string>
+                   <string>http://192.168.1.123/ipa/icon_120.png</string>
                </dict>
         <dict>
                    <key>kind</key>
@@ -27,12 +27,12 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-     <string>http://171.34.70.58:8000/static/images/logo.jpg</string>
+     <string>http://171.34.70.58:8000/ipa/icon_120.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.drowfarm.nis</string>
+               <string>com.my.myapp</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
